@@ -1,30 +1,31 @@
-Agency Jekyll theme
-====================
+# Hi, I'm Mark 👋
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Welcome to my portfolio!  
+I'm an **Project Manager and Digital Strategist** with a passion for **e-commerce, analytics, and automation**. I enjoy building data-driven solutions, optimizing user experiences, and delivering projects that have measurable business impact.
 
-# How to use
+## 🔥 About Me
+- Background in **eCommerce, personalization, and A/B testing**  
+- Experienced in **project management (Agile/Scrum), Jira & Confluence**  
+- Skilled in **SQL, Power BI, Tableau, Google Analytics, Amplitude**, and **front-end fundamentals**  
+- Passionate about **automation, data storytelling**, and driving business growth  
+- Always exploring new technologies and side projects
 
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+## 📂 Featured Projects
 
 
-# Demo
+*(Links will point to individual project repos or demos.)*
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+## 🛠️ Tech & Tools
+- **Project Management:** Jira, Confluence, Scrum & Agile practices  
+- **Analytics:** SQL (MySQL, BigQuery), Power BI, Tableau, GA4, Amplitude  
+- **Development:** HTML, CSS, JavaScript (basic React), Firebase  
+- **Design & Campaigns:** Photoshop, A/B testing tools, personalization engines
 
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+## 📬 Get in Touch
+- **Portfolio:** [hmark94.github.io](https://hmark94.github.io)  
+- **LinkedIn:** [linkedin.com/in/markhatala](#)  
+- **Email:** [hatala.mark@gmail.com](mailto:htala.mark@gmail.com)
+
+---
+
+Thanks for stopping by! Feel free to explore my projects and connect if you'd like to collaborate.
