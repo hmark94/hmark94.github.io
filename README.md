@@ -24,7 +24,7 @@ I'm an **Project Manager and Digital Strategist** with a passion for **e-commerc
 ## 📬 Get in Touch
 - **Portfolio:** [hmark94.github.io](https://hmark94.github.io)  
 - **LinkedIn:** [linkedin.com/in/markhatala](#)  
-- **Email:** [hatala.mark@gmail.com](mailto:htala.mark@gmail.com)
+- **Email:** [hatala.mark@gmail.com](mailto:hatala.mark@gmail.com)
 
 ---
 

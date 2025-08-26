@@ -1,0 +1,84 @@
+---
+layout: post
+modal-id: 2
+title:  "NYC Citi Bike Data Analysis: First Quarter 2017"
+subtitle: "My first SQL and Power BI pet project."
+date:   2025-08-25 12:00:00
+thumbnail: "citi-bike-thumbnail.jpg"
+img: "Nyc_citi_bike_1st_quarter_2017-1.png"
+logo-1: "sql.png"
+logo-2: "power-bi.png"
+logo-3: "kaggle.png"
+---
+
+This project was my **first hands-on experience with SQL and Power BI**, where I explored real-world bike-sharing data to practice analysis, data cleaning, and visualization.
+
+---
+
+## 🎯 Project Goal
+Learn and apply **SQL** for querying, cleaning, and exploring data.<br/>
+Build an **interactive Power BI dashboard** to visualize trends and insights.<br/>
+Practice **data storytelling** using a public dataset.
+
+---
+
+## 📊 Dataset
+The dataset comes from Kaggle: [NYC Citi Bike Sampled Data (2013–2017)](https://www.kaggle.com/datasets/fatihb/citibike-sampled-data-2013-2017).  
+
+For this project, I focused on the **January–March 2017 (Q1)** subset.<br/>  
+**The data includes:**
+- Trip start/end times and stations
+- Trip duration 
+- Rider demographics (age, gender, user type)  
+
+---
+
+## 🛠 Tools & Skills Practiced
+- **SQL (MySQL Workbench)** – Joins, aggregations, filtering, anomaly detection.
+- **Power BI** – Data modeling, calculated measures (DAX), and dashboard creation.
+- **Data storytelling** – Translating findings into meaningful business insights.
+
+---
+
+## 🔍 Key Steps
+1. **Data Cleaning & Preparation**
+   - Removed anomalies (e.g., invalid birth years).
+   - Parsed and transformed date/time columns.
+   - Identified peak/trough outliers and validated with domain context.
+
+2. **SQL Analysis**
+   - Queries for **daily and hourly ridership trends**.
+   - Calculations of **average trip duration**, **repeat riders**, and **user type breakdown**.
+
+3. **Power BI Dashboard**
+   - Built interactive visuals:
+     - Line chart: trips over time
+     - Heatmap: weekday vs. hour trip patterns
+     - Demographics breakdown
+     - Map: most popular stations
+   - KPI cards summarizing key metrics.
+
+---
+
+## 📈 Insights Gained
+- **Weekday commuter trends:** Strong peaks at 8–9 AM and 5–7 PM.
+- **Subscriber dominance:** Majority of trips are by subscribers; casual users spike on weekends.
+- **Station hotspots:** Central Manhattan consistently drives the highest trip volume.
+
+---
+
+## 💡 Learnings
+- First experience **combining SQL for backend prep with Power BI for front-end visualization**.
+- Gained practice in **data cleaning** and understanding why anomalies matter.
+- Improved skills in **presenting insights visually for non-technical audiences**.
+
+---
+
+## 🔗 Resources
+- [Dataset on Kaggle](https://www.kaggle.com/datasets/fatihb/citibike-sampled-data-2013-2017)  
+- [Power BI Dashboard](https://github.com/hmark94/nyc-citi-bike-2017)  
+- [SQL Queries](https://github.com/hmark94/nyc-citi-bike-2017/blob/main/Nyc_Citi_data.sql)
+
+---
+
+*This project marks the start of my journey in data analytics and serves as a foundation for future, more advanced projects.*

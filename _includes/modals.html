@@ -13,23 +13,30 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
+                            <ul class="list-inline  item-details">
+                                <li><img
+                                        src="img/logos/{{ post.logo-1 }}"
+                                        class="img-tumbnail"
+                                        style="max-width: 150px; max-height: 150px; border: 0px;"
+                                        alt="{{ post.alt }}">
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
+                                <li><img
+                                        src="img/logos/{{ post.logo-2 }}"
+                                        class="img-tumbnail"
+                                        style="max-width: 150px; max-height: 150px; border: 0px;"
+                                        alt="{{ post.alt }}">
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
+                                <li><img
+                                        src="img/logos/{{ post.logo-3 }}"
+                                        class="img-tumbnail"
+                                        style="max-width: 150px; max-height: 150px; border: 0px;"
+                                        alt="{{ post.alt }}">
                                 </li>
                             </ul>
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <div class="modal-content">
+                            {{ post.content }}
+                            </div>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
